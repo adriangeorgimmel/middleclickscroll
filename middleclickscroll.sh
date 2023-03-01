@@ -1,2 +1,3 @@
 #!/bin/bash
-xinput set-prop 14 "libinput Scroll Method Enabled" 0, 0, 1
+deviceId=
+xinput set-prop $deviceId "libinput Scroll Method Enabled" 0, 0, 1
