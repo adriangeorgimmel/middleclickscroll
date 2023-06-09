@@ -4,7 +4,7 @@ This script allows you to scroll using your middle mouse button on Linux systems
 
 ## Usage
 
-The changes to xinput are not persistent so the script needs to be run on every boot, i a cronjob for this.
+The changes to xinput are not persistent so the script needs to be run on every boot, I use a cronjob for this.
 Once the script executed, you can use your middle mouse button to scroll in any application that supports scrolling.
 
 ## Configuation
